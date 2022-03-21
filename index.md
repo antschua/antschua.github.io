@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 title: Home
 sitemap: true
 ---
@@ -22,6 +22,7 @@ Specifically, the chapters below should be relevant now:
 After you've familiarized yourself with Hydejack, you can delete the following folders and files
 containing example content:
 
+<!-- 
 ~~~
 ├── _featured_categories
 │   └── example.md
@@ -40,6 +41,7 @@ containing example content:
 ├── LICENSE.md
 └── NOTICE.md
 ~~~
+ -->
 
 [documentation]: docs/README.md
 [install]: docs/install.md

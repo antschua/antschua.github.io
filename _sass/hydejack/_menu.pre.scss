@@ -56,7 +56,7 @@ $navbar-height: 5rem;
       height: $navbar-height;
       left: $shadow-padding;
       margin: auto;
-      box-shadow: 0 0 2rem rgba(0,0,0,0.25);
+//       box-shadow: 0 0 2rem rgba(0,0,0,0.25);
       z-index: -1;
     }
     // >>>
@@ -108,8 +108,8 @@ $navbar-height: 5rem;
   width: 3.25rem;
   height: $navbar-height;
   color: var(--menu-text);
-  border-right: 1px solid var(--border-color);
-  border-left: 1px solid var(--border-color);
+//   border-right: 1px solid var(--border-color);
+//   border-left: 1px solid var(--border-color);
   margin-left: -1px;
 }
 // >>>
@@ -117,9 +117,9 @@ $navbar-height: 5rem;
 // <<< link
 a.nav-btn, button.nav-btn {
   cursor: pointer;
-  &:hover, &:focus {
-    background-image: linear-gradient(90deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.05));
-  }
+//   &:hover, &:focus {
+//     background-image: linear-gradient(90deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.05));
+//   }
 }
 
 .nav-span {
